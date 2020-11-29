@@ -1,0 +1,17 @@
+we want the bunch of fishes in a container (based on the benchmark)
+we can use the stl algorithms on the container
+
+step() //time passes
+	fish grows older
+	remove the dead ones
+	create children
+		select a pregnant fish
+		generate a child from the pregnant fishes
+		put them back in the population
+
+algorithms: ransfrom, remove_if, remove_copy_if, for_each
+ std::mem_fun_ref( ) : get some predicate for the ifs
+
+
+ploto PopulationSize ( time );
+plot  #ofFishesHavingTheBadGene(genome) (@ t=0 and @ t=end)

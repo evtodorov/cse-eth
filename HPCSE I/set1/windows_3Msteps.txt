@@ -1,0 +1,49 @@
+1 thread:
+Average: 102.749
+Maximum: 120.04
+Minimum: 99.556
+
+2 thread:
+Average: 75.5726
+Maximum: 127.707
+Minimum: 62.021
+
+3 thread:
+Average: 63.4763
+Maximum: 80.131
+Minimum: 60.021
+
+4 thread:
+Average: 54.9994
+Maximum: 74.025
+Minimum: 51.016
+
+5 thread:
+Average: 62.0619
+Maximum: 64.022
+Minimum: 61.021
+
+6 thread:
+Average: 54.0391
+Maximum: 60.021
+Minimum: 52.017
+
+8 thread:
+Average: 49.4475
+Maximum: 54.019
+Minimum: 40.014
+
+10 thread:
+Average: 53.9991
+Maximum: 58.021
+Minimum: 48.016
+
+20 thread:
+Average: 51.7783
+Maximum: 56.019
+Minimum: 43.014
+
+100 thread:
+Average: 52.3755
+Maximum: 57.595
+Minimum: 49.08

@@ -1,0 +1,45 @@
+class Genome:
+	- representation (how is stored)
+		- genome itself - bitArray of fixed Size [bitset class]
+		- genome size B
+		- threshold T (max # of bad genes) //can be  part of animal classes if > 1
+		- mutation rate M				   //can be  part of animal classes if > 1
+	- operations (change the obj)
+		- mutate
+		- set_mutation_rate
+		- set_threshold
+	- properties (don't change the obj)
+		- get_size
+		- get_numberOfBadGenes up to T
+	- constructing
+		- default
+		- copy
+
+class Fish:
+	- representation
+		- age
+		- genome
+		- reproduction age R
+	- operations
+		- give birth
+		- aging
+	- properties
+		- get active bad genes
+		- isDead
+		- isPregnant
+	- constructing
+		- set age to 0
+		- create by copy
+
+class Population:
+	- representation
+		
+	- operations
+		- insert fish
+		- remove fish
+	- properties
+		- number of fish alive (verhulst factor)
+		- max number of fish Nmax
+	- constructing
+		- create a number of fishes 
+		

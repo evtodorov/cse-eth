@@ -1,0 +1,4 @@
+Enter a sequence of numbers! 
+Maximum length of sequence - ten numbers. 
+To add the next number press <Enter>. 
+To end the sequence press <Enter> twice. 

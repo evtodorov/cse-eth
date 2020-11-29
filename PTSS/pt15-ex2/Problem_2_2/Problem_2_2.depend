@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1443377195 source:d:\documents\aerospace\ptss\pt15-ex2\problem_2_2\problem_2_2.cpp
+	"simpsons.hpp"
+	<iostream>
+	<cmath>
+
+1443377167 d:\documents\aerospace\ptss\pt15-ex2\problem_2_2\simpsons.hpp
+
+1443377236 source:d:\documents\aerospace\ptss\pt15-ex2\problem_2_2\simpsons.cpp
+	<cassert>
+	"simpsons.hpp"
+	<iostream>
+
